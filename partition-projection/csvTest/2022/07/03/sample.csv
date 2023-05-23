@@ -1,0 +1,11 @@
+time,user_id,board_name,action
+2022-07-03 22:06,bob,game,insert
+2022-07-03 22:06,jake,free,delete
+2022-07-03 22:06,jake,stock,delete
+2022-07-05 22:06,jake,free,insert
+2022-03-05 22:06,bob,game,insert
+2022-03-05 22:06,mike,qna,delete
+2022-03-05 22:06,alica,qna,insert
+2022-03-05 22:06,mike,game,delete
+2022-03-05 22:06,mike,stock,view
+2022-03-05 22:06,jake,qna,insert
