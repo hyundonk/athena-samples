@@ -79,6 +79,7 @@ where user_id='bob';
 6	2022-07-01 14:06	bob	game	insert	2022	7	1
 ```
 
+Ref) https://inpa.tistory.com/entry/AWS-%F0%9F%93%9A-Athena-Partition-Projection%EC%9C%BC%EB%A1%9C-%ED%8C%8C%ED%8B%B0%EC%85%94%EB%8B%9D-%EC%9E%90%EB%8F%99%ED%99%94-%ED%95%98%EA%B8%B0
 
 
 
